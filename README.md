@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Touheda812/Touheda812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on developing a user-friendly web application for the Central Business District Tolling Program (CBDTP) as an Intern at Triborough B & T Authority.
 
 - 🌱 I’m currently learning advanced machine learning techniques to enhance my data analysis skills and exploring cloud computing technologies.
@@ -20,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 
 -⚡ Fun fact: I enjoy learning new tools and technologies. 
--->

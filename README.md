@@ -20,22 +20,6 @@ I also have experience using tools like **PostgreSQL, MySQL, Tableau, and Git**.
 
 ---
 
-## 📊 Data & Analytics Projects
-
-Here are a few projects I’m working on or have completed:
-
-- 🛒 [Retail Sales Analytics Dashboard](https://github.com/Touheda812/Retail-Sales-Analytics-Dashboard)  
-  `Python • SQL • Power BI`  
-  Cleaned raw retail data, ran SQL queries for business insights, and built a dashboard to visualize monthly trends and top products.
-
-- 📈 [COVID-19 Data Tracker (in progress)]()  
-  `Pandas • Matplotlib • Tableau`  
-  Exploring how COVID-19 spread across regions, using charts and maps.
-
-- ✨ More projects coming soon…
-
----
-
 ## 🧰 Tools & Technologies
 
 **Languages & Libraries**  
@@ -51,8 +35,7 @@ Here are a few projects I’m working on or have completed:
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/touhedakhanom/)
-- ✉️ Email: your-email@example.com
-- 🌐 Portfolio Website: (Coming soon…)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/-touheda-khanom-citytech/)
+- ✉️ Email: touhedakhanom14@gmail.com 
 
 Thanks for visiting! 🙌

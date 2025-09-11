@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Engineering Technology  
 💼 Aspiring Data Analyst | Data Science & Tech Enthusiast  
-📍 Based in New York | Open to Full-time Onsite, Hybrid/Remote Roles
+📍 Based in New York, NY | Open to Full-time Onsite, Hybrid/Remote Roles
 
 ---
 

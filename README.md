@@ -2,40 +2,60 @@
 
 🎓 B.Tech in Computer Engineering Technology  
 💼 Aspiring Data Analyst | Data Science & Tech Enthusiast  
-📍 Based in New York, NY | Open to Full-time Onsite, Hybrid/Remote Roles
+📍 Based in New York, NY | Open to Full-time Onsite, Hybrid/Remote Roles  
 
 ---
 
-## 💡 About Me
+## 💡 About Me  
 
-I'm a detail-oriented data analyst passionate about solving real-world problems using **data, analytics, and storytelling**. With a background in computer engineering and hands-on experience in **Python, SQL, Power BI, and Excel**, I’ve worked on projects involving:
+I'm a detail-oriented technology professional passionate about solving real-world problems using **data, analytics, and web development**.  
+With a background in computer engineering and hands-on experience in **Python, SQL, JavaScript, and BI tools**, I’ve worked on projects involving:  
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Transformation
-- Dashboard Building (Power BI, Excel)
-- Business Intelligence Reporting
-- Web Development (HTML, CSS, JS)
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Transformation  
+- Dashboard Building (Power BI, Excel)  
+- Business Intelligence Reporting  
+- Web Development (HTML, CSS, JS)  
 
-I also have experience using tools like **PostgreSQL, MySQL, Tableau, and Git**.
+I also have experience using tools like **PostgreSQL, MySQL, Tableau, Git, and GitHub**.  
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Tools & Technologies  
 
 **Languages & Libraries**  
-`Python`, `SQL`, `JavaScript`, `HTML/CSS`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+`Python`, `SQL`, `JavaScript`, `HTML/CSS`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 
 **Databases & Analytics**  
-`PostgreSQL`, `MySQL`, `Excel`, `Power BI`, `Tableau`
+`PostgreSQL`, `MySQL`, `Excel`, `Power BI`, `Tableau`  
 
 **Other Tools**  
-`Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `Selenium`, `Postman`, `Jira`
+`Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `Selenium`, `Postman`, `Jira`  
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Projects  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/-touheda-khanom-citytech/)
-- ✉️ Email: touhedakhanom14@gmail.com 
+### 🔹 [MTA Toll Calculator](https://mtatoll-calculator.pages.dev/)  
+📂 [Source Code](https://github.com/Touheda812/BootstrapMTACalc---2)  
+A responsive web application that calculates toll costs for MTA bridges and tunnels.  
+- Built with **HTML, CSS (Bootstrap), and JavaScript**  
+- Helps commuters quickly estimate toll expenses for trips  
+
+---
+
+### 🔹 [CBDTP Calculator](https://responsive-mta-tollcalculator.pages.dev/)  
+📂 [Source Code](https://github.com/Touheda812/CBDTP-Calculator---2)  
+A web-based calculator for NYC’s Central Business District Tolling Program (CBDTP).  
+- Developed with **HTML, CSS, and JavaScript**  
+- Provides an easy way for commuters to see toll impacts under congestion pricing  
+
+---
+
+## 📫 Let’s Connect  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/touheda-khanom/)  
+- ✉️ Email: **touhedakhanom14@gmail.com**  
+- 💻 [GitHub](https://github.com/Touheda812)  
 
 Thanks for visiting! 🙌

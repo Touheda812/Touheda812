@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Touheda Khanom
 
 🎓 B.Tech in Computer Engineering Technology  
-💼 Computer Engineering Graduate | Exploring Careers in Technology & IT
+💼 Computer Engineering Graduate | Exploring Careers in Technology & IT  
 📍 Based in New York, NY | Open to Full-time Onsite, Hybrid/Remote Roles  
 
 ---

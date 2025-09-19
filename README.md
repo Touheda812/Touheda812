@@ -11,10 +11,8 @@
 I'm a detail-oriented technology professional passionate about solving real-world problems using **data, analytics, and web development**.  
 With a background in computer engineering and hands-on experience in **Python, SQL, JavaScript, and BI tools**, I’ve worked on projects involving:  
 
-- Exploratory Data Analysis (EDA)  
 - Data Cleaning & Transformation  
 - Dashboard Building (Power BI, Excel)  
-- Business Intelligence Reporting  
 - Web Development (HTML, CSS, JS)  
 - Software Testing & Quality Assurance  
 

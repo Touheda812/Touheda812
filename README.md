@@ -36,16 +36,20 @@ I also have experience using tools like **PostgreSQL, MySQL, Tableau, Git, and G
 
 ## 🚀 Projects  
 
-### 🔹 [MTA Toll Calculator](https://mtatoll-calculator.pages.dev/)  
-📂 [Source Code](https://github.com/Touheda812/BootstrapMTACalc---2)  
+### 🔹 MTA Toll Calculator  
+🌐 **Live Website:** [mtatoll-calculator.pages.dev](https://mtatoll-calculator.pages.dev/)  
+📂 **Source Code:** [GitHub Repo](https://github.com/Touheda812/BootstrapMTACalc---2)  
+
 A responsive web application that calculates toll costs for MTA bridges and tunnels.  
 - Built with **HTML, CSS (Bootstrap), and JavaScript**  
 - Helps commuters quickly estimate toll expenses for trips  
 
 ---
 
-### 🔹 [CBDTP Calculator](https://responsive-mta-tollcalculator.pages.dev/)  
-📂 [Source Code](https://github.com/Touheda812/CBDTP-Calculator---2)  
+### 🔹 CBDTP Calculator  
+🌐 **Live Website:** [responsive-mta-tollcalculator.pages.dev](https://responsive-mta-tollcalculator.pages.dev/)  
+📂 **Source Code:** [GitHub Repo](https://github.com/Touheda812/CBDTP-Calculator---2)  
+
 A web-based calculator for NYC’s Central Business District Tolling Program (CBDTP).  
 - Developed with **HTML, CSS, and JavaScript**  
 - Provides an easy way for commuters to see toll impacts under congestion pricing  

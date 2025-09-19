@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Touheda Khanom
 
 🎓 B.Tech in Computer Engineering Technology  
-💼 Computer Engineering Graduate | Exploring Careers in Technology & IT  
+💼 Computer Engineering Graduate | Aspiring Data Analyst & Exploring Careers in Technology & IT  
 📍 Based in New York, NY | Open to Full-time Onsite, Hybrid/Remote Roles  
 
 ---
@@ -16,6 +16,7 @@ With a background in computer engineering and hands-on experience in **Python, S
 - Dashboard Building (Power BI, Excel)  
 - Business Intelligence Reporting  
 - Web Development (HTML, CSS, JS)  
+- Software Testing & Quality Assurance  
 
 I also have experience using tools like **PostgreSQL, MySQL, Tableau, Git, and GitHub**.  
 
@@ -53,6 +54,16 @@ A responsive web application that calculates toll costs for MTA bridges and tunn
 A web-based calculator for NYC’s Central Business District Tolling Program (CBDTP).  
 - Developed with **HTML, CSS, and JavaScript**  
 - Provides an easy way for commuters to see toll impacts under congestion pricing  
+
+---
+
+### 🔹 Software Testing Capstone Project  
+📂 **Source Code:** [GitHub Repo](https://github.com/Touheda812/Software-Testing-Capstone-Project-)  
+
+A comprehensive software testing project completed after my Software Engineering Bootcamp.  
+- Focused on **functional testing, test case design, and bug tracking**  
+- Developed automated and manual tests to ensure software quality  
+- Tools used include **Selenium, Python, and JIRA**  
 
 ---
 
